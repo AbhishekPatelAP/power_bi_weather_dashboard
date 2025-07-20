@@ -1,4 +1,4 @@
-# 🌦️ Power BI Weather & AQI Dashboard with WeatherAPI
+# 🌦️ Real-Time Weather and Air Quality Dashboard using Power BI & WeatherAPI
 
 This project demonstrates how to build a **real-time Weather and Air Quality Index (AQI) Dashboard** in **Power BI** using data from the [WeatherAPI](https://www.weatherapi.com/). It includes live weather metrics, AQI indicators, and dynamic city filters — ideal for learning or deploying a live weather monitoring report.
 
