@@ -4,11 +4,9 @@ This project demonstrates how to build a **real-time Weather and Air Quality Ind
 
 ---
 
-## 📸 Screenshot
+Here’s a preview of the Power BI Weather Dashboard :
 
-Here’s a preview of the Power BI Weather Dashboard:
-
-![Dashboard Screenshot](screenshots/dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/AbhishekPatelAP/power_bi_weather_dashboard/blob/main/screenshots/1.png)
 
 
 
@@ -24,7 +22,7 @@ Here’s a preview of the Power BI Weather Dashboard:
 
 ## 🔧 Prerequisites
 
-To use or replicate this project, ensure you have:
+To use or replicate this project, ensure you have :
 
 - ✅ [Power BI Desktop](https://app.powerbi.com/groups/me/reports/1a283fdf-8bdf-47dc-9af7-0413840e76f8/7f5b1b168225399960d0?experience=power-bi)
 - ✅ An account at [WeatherAPI.com](https://www.weatherapi.com/) (free/paid)  
